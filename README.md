@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-- 🔭 I’m currently working on MFQOD.com , not online yet
+- 🔭 I’m currently working on MFQOD.com 
 - 🌱 I’m currently learning how to use Redis Caching 
   
 
